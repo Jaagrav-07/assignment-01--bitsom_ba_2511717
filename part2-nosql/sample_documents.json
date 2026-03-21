@@ -1,0 +1,36 @@
+[
+  {
+    "product_id": "ELEC001",
+    "name": "Smartphone X",
+    "category": "Electronics",
+    "price": 25000,
+    "specs": {
+      "brand": "Samsung",
+      "warranty_years": 1,
+      "voltage": "220V"
+    },
+    "features": ["5G", "128GB Storage", "AMOLED Display"]
+  },
+  {
+    "product_id": "CLOT001",
+    "name": "Men T-Shirt",
+    "category": "Clothing",
+    "price": 799,
+    "details": {
+      "size": ["S", "M", "L"],
+      "material": "Cotton",
+      "color": "Black"
+    }
+  },
+  {
+    "product_id": "GROC001",
+    "name": "Milk Pack",
+    "category": "Groceries",
+    "price": 60,
+    "expiry_date": "2024-12-30",
+    "nutrition": {
+      "calories": 150,
+      "protein": "8g"
+    }
+  }
+]
